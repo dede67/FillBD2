@@ -25,4 +25,4 @@ for encrypted containers:
 
 
 
-The full documentation is available at my [homepage](http://dede67.bplaced.net/PhythonScripte/fillBD2/fillBD2.html)
+The full documentation (in german language) is available at my [homepage](http://dede67.bplaced.net/PhythonScripte/fillBD2/fillBD2.html).
