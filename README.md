@@ -15,5 +15,6 @@ Other tools needed are:
 * for genisoimage: **genisoimage-1.1.11-8.1.2.x86_64**
 * for encrypted containers: **realcrypt-7.0a-3.80.x86_64**
 
+The main file (that has to be started) is `FillBD2.py`.
 
 The full documentation (in german language) is available at my [homepage](http://dede67.bplaced.net/PhythonScripte/fillBD2/fillBD2.html).
