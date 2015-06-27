@@ -3,6 +3,8 @@
 FillBD2 is a tool (for Linux) to find a set of files whose total size is as close as possible below a defined size. 
 This defined size is usually determined by an external medium such as DVD or BlueRay.
 
+![screenshot](http://dede67.bplaced.net/PhythonScripte/fillBD2/mainWindow03.png)
+
 The goal is to fill this external media to the maximum or in other words: find a file compilation, which leaves no unused space on the disc.
 
 
