@@ -13,13 +13,10 @@ The GUI requires **wxWidgets** (or wxPython) in version 2.8.
 As database **sqlite3** is used.
 
 Other tools needed are:
-
 for mkudffs:
   **udftools-1.0.0b3-153.1.1.x86_64**
-
 for genisoimage:
   **genisoimage-1.1.11-8.1.2.x86_64**
-
 for encrypted containers:
   **realcrypt-7.0a-3.80.x86_64**
 
