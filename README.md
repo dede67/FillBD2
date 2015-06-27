@@ -13,16 +13,9 @@ The GUI requires **wxWidgets** (or wxPython) in version 2.8.
 As database **sqlite3** is used.
 
 Other tools needed are:
-
-for mkudffs:
-  **udftools-1.0.0b3-153.1.1.x86_64**
-
-for genisoimage:
-  **genisoimage-1.1.11-8.1.2.x86_64**
-
-for encrypted containers:
-  **realcrypt-7.0a-3.80.x86_64**
-
+* for mkudffs: **udftools-1.0.0b3-153.1.1.x86_64**
+* for genisoimage: **genisoimage-1.1.11-8.1.2.x86_64**
+* for encrypted containers: **realcrypt-7.0a-3.80.x86_64**
 
 
 The full documentation (in german language) is available at my [homepage](http://dede67.bplaced.net/PhythonScripte/fillBD2/fillBD2.html).
