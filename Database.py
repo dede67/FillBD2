@@ -46,7 +46,7 @@ class Database():
   # Stellt ein paar Default-Werte für Mediengrößen in die DB.
   def __fillDefaults(self):
     # def insertOrUpdateDest(self, name, comment, size, blocksize, addblock, folder, final):
-    self.insertOrUpdateDest("RealCrypt BlueRay",      "FAT32 auf UDF1.02 (Nero4)",           24931450880,   8192, 0, HOMEDIR, 0)
+    self.insertOrUpdateDest("RealCrypt BluRay",       "FAT32 auf UDF1.02 (Nero4)",           24931450880,   8192, 0, HOMEDIR, 0)
     self.insertOrUpdateDest("DVD+R JolietRR",         "genisoimage ISO9660+JolietRR",         4700002304,   2048, 1, HOMEDIR, 1)
     self.insertOrUpdateDest("DVD+R UDF1.02",          "genisoimage ISO9660+UDF1.02",          4699518976,   2048, 2, HOMEDIR, 1)
     self.insertOrUpdateDest("DVD+R JolietRR+UDF1.02", "genisoimage ISO9660+JolietRR+UDF1.02", 4699506688,   2048, 3, HOMEDIR, 1)
